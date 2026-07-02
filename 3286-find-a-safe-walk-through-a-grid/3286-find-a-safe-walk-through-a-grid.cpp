@@ -3,35 +3,28 @@ public:
     bool findSafeWalk(vector<vector<int>>& grid, int health) {
         int m=grid.size();
         int n=grid[0].size();
-       vector<vector<int>>visited(m,vector<int>(n,0));
-        priority_queue<vector<int>>pq;
         vector<vector<int>>mat{{1,0},{0,1},{-1,0},{0,-1}};
-        int h,i,j,i1,j1;
-        if(grid[0][0]==1)health--;
-        visited[0][0]=health;
-        pq.push({health,0,0});
-        while(!pq.empty()){
-            //int sz=pq.size();
-            //while(sz--){
-                auto it=pq.top();
-                pq.pop();
-                h=it[0];
-                i=it[1];
-                j=it[2];
-                if(i==m-1 && j==n-1)return true;
-                for(auto ele:mat){
-                   i1=ele[0];
-                   j1=ele[1];
-                   if(i+i1<m && i+i1>=0 && j+j1<n && j+j1>=0){
-                    int nh=h;
-                    if(grid[i+i1][j+j1]==1) nh--;
-                    if(nh>visited[i+i1][j+j1]){
-                        visited[i+i1][j+j1]=nh;
-                        pq.push({nh,i+i1,j+j1});
-                    }
-                   }
+        deque<tuple<int,int>>dq;
+        vector<vector<int>>result(m,vector<int>(n,INT_MAX));
+        dq.push_front({0,0});
+        result[0][0]=grid[0][0];
+        while(!dq.empty()){
+            auto it=dq.front();
+            dq.pop_front();
+            auto[i,j]=it;
+            for(auto ele:mat){
+                int nr=ele[0]+i;
+                int nc=ele[1]+j;
+                if(nr<0 ||nr>=m || nc<0 ||nc>=n)continue;
+                if(result[nr][nc]>result[i][j]+grid[nr][nc]){
+                    result[nr][nc]=result[i][j]+grid[nr][nc];
+                    if(grid[nr][nc]==0)dq.push_front({nr,nc});
+                    if(grid[nr][nc]==1)dq.push_back({nr,nc});
+                }
+                
             }
         }
-        return false;
+        int x=result[m-1][n-1];
+        return health-x>=1;
     }
 };
