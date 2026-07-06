@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1288-remove-covered-intervals) |
 | [1920-build-array-from-permutation](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1920-build-array-from-permutation) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -62,4 +63,8 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
