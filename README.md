@@ -57,6 +57,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0069-sqrtx) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3620-network-recovery-pathways) |
@@ -87,6 +88,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0523-continuous-subarray-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Design
