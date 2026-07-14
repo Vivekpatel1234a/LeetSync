@@ -18,6 +18,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1920-build-array-from-permutation](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1920-build-array-from-permutation) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -44,6 +45,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3620-network-recovery-pathways) |
@@ -95,6 +97,7 @@
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1331-rank-transform-of-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Math
 |  |
 | ------- |
@@ -130,4 +133,16 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1291-sequential-digits) |
+## String
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Quickselect
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
