@@ -103,6 +103,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0523-continuous-subarray-sum) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Design
 |  |
@@ -145,4 +146,8 @@
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
