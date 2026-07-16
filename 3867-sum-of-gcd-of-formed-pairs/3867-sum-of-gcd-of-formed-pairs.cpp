@@ -1,17 +1,17 @@
 class Solution {
 public:
-    int gcd(int a, int b){
+    /*int gcd(int a, int b){
         int rem=a%b;
         if(rem==0)return b;
         return gcd(b,rem);
-    }
+    }*/
     long long gcdSum(vector<int>& nums) {
         int n=nums.size();
         int maxi=INT_MIN;
         vector<int>arr;
         for(int i=0; i<n; i++){
             maxi=max(maxi,nums[i]);
-            int val=gcd(maxi,nums[i]);
+            int val=gcd(maxi,nums[i]);//bcz gcd is built in function
             arr.push_back(val);
         }
         sort(arr.begin(),arr.end());
