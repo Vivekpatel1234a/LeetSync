@@ -1,5 +1,6 @@
 class Solution {
 public:
+
     string smallestSubsequence(string s) {
        unordered_map<char,int>visited;
         for(auto ele:s){
