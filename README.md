@@ -12,6 +12,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1260-shift-2d-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1288-remove-covered-intervals) |
 | [1314-matrix-block-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1314-matrix-block-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1331-rank-transform-of-an-array) |
@@ -29,6 +30,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1920-build-array-from-permutation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0304-range-sum-query-2d-immutable) |
+| [1260-shift-2d-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1260-shift-2d-grid) |
 | [1314-matrix-block-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1314-matrix-block-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3286-find-a-safe-walk-through-a-grid) |
