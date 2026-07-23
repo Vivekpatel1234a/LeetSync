@@ -27,6 +27,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3620-network-recovery-pathways) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | [1314-matrix-block-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1314-matrix-block-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Shortest Path
 |  |
 | ------- |
