@@ -24,7 +24,6 @@ public:
             secmin=nums[i];
         }
        }
-       cout<<firstmax<<" "<<secmax<<" "<<thirdmax<<" "<<firstmin<<" "<<secmin;
         return max(firstmax*secmax*thirdmax,firstmin*secmin*firstmax);
        return 0;
     }
