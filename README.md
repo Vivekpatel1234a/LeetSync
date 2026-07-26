@@ -11,6 +11,7 @@
 | [0496-next-greater-element-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0628-maximum-product-of-three-numbers) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1260-shift-2d-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1288-remove-covered-intervals) |
@@ -106,6 +107,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1331-rank-transform-of-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -116,6 +118,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3658-gcd-of-odd-and-even-sums) |
