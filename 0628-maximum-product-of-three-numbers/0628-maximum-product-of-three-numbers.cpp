@@ -1,11 +1,31 @@
 class Solution {
 public:
     int maximumProduct(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        int x1,x2,x3,y1,y2,y3;
-        int n=nums.size();
-        x1=nums[0];
-        x2=nums[1];
-        return max(x1*x2*nums[n-1],nums[n-1]*nums[n-2]*nums[n-3]);
+       int firstmax=-1001,secmax=-1001,thirdmax=-1001,firstmin=1001,secmin=1001;
+       int n=nums.size();
+       for(int i=0; i<n; i++){
+        if(nums[i]>firstmax){
+            thirdmax=secmax;
+            secmax=firstmax;
+            firstmax=nums[i];
+        }
+        else if(nums[i]>secmax){
+           thirdmax=secmax;
+            secmax=nums[i]; 
+        }
+        else if(nums[i]>thirdmax){
+            thirdmax=nums[i];
+        }
+         if(nums[i]<firstmin){
+            secmin=firstmin;
+            firstmin=nums[i];
+        }
+        else if(nums[i]<secmin){
+            secmin=nums[i];
+        }
+       }
+       cout<<firstmax<<" "<<secmax<<" "<<thirdmax<<" "<<firstmin<<" "<<secmin;
+        return max(firstmax*secmax*thirdmax,firstmin*secmin*firstmax);
+       return 0;
     }
 };
