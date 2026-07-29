@@ -95,6 +95,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0152-maximum-product-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -122,6 +123,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0070-climbing-stairs) |
 | [0523-continuous-subarray-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0523-continuous-subarray-sum) |
@@ -214,4 +216,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
