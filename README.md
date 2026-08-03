@@ -246,4 +246,5 @@
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0328-odd-even-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0725-split-linked-list-in-parts) |
 <!---LeetCode Topics End-->
