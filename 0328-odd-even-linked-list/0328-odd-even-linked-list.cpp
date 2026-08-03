@@ -14,25 +14,26 @@ public:
     
     if(head==NULL || head->next==NULL)return head;
     ListNode* temp=head->next->next;
-    ListNode* even=new ListNode(head->next->val);
-    ListNode* odd= new ListNode(head->val);
+    ListNode* even=head->next;
+    ListNode* odd=head;
     ListNode* et=even;
     ListNode* ot=odd;
     int i=1;
     while(temp!=NULL){
         if(i%2!=0){
-            ot->next=new ListNode(temp->val);
+            ot->next=temp;
             ot=ot->next;
             i=0;
         }
         else{
-             et->next=new ListNode(temp->val);
+             et->next=temp;
              et=et->next;
              i=1;
         }
     
         temp=temp->next;
     }
+    et->next=NULL;
     ot->next=even;
 return odd;
     }
