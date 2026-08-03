@@ -1,3 +1,4 @@
+//cheack each submission 
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -13,28 +14,16 @@ public:
     ListNode* oddEvenList(ListNode* head) {
     
     if(head==NULL || head->next==NULL)return head;
-    ListNode* temp=head->next->next;
     ListNode* even=head->next;
+    ListNode* evenHead=even;
     ListNode* odd=head;
-    ListNode* et=even;
-    ListNode* ot=odd;
-    int i=1;
-    while(temp!=NULL){
-        if(i%2!=0){
-            ot->next=temp;
-            ot=ot->next;
-            i=0;
-        }
-        else{
-             et->next=temp;
-             et=et->next;
-             i=1;
-        }
-    
-        temp=temp->next;
+    while(even!=NULL && even->next!=NULL){
+        odd->next=even->next;
+        odd=odd->next;
+        even->next=odd->next;
+        even=even->next;
     }
-    et->next=NULL;
-    ot->next=even;
-return odd;
+    odd->next=evenHead;
+    return head;
     }
 };
