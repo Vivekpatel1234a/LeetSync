@@ -242,4 +242,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0877-stone-game) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
