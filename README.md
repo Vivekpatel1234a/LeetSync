@@ -139,6 +139,7 @@
 | [0062-unique-paths](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0070-climbing-stairs) |
+| [0445-add-two-numbers-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0628-maximum-product-of-three-numbers) |
@@ -213,6 +214,7 @@
 ## Stack
 |  |
 | ------- |
+| [0445-add-two-numbers-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0856-score-of-parentheses) |
@@ -254,6 +256,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0725-split-linked-list-in-parts) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1019-next-greater-node-in-linked-list) |
 ## Recursion
