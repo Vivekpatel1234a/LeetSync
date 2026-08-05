@@ -249,11 +249,13 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0725-split-linked-list-in-parts) |
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0486-predict-the-winner) |
 ## Minimax
 |  |
