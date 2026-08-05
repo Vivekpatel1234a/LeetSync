@@ -10,9 +10,8 @@
  */
 class Solution {
 public:
-    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        //reversal part
-        ListNode* head=l1;
+
+    ListNode* reverse(ListNode* head){
         ListNode* temp=head;
         ListNode* prev=NULL; 
         while(temp!=NULL){
@@ -21,24 +20,17 @@ public:
             prev=head;
             head=temp;
         }
-         l1=prev;
+        return prev;
+    }
 
+    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+        //reversal part
 
-         head=l2;
-         temp=head;
-         prev=NULL; 
-        while(temp!=NULL){
-            temp=head->next;
-            head->next=prev;
-            prev=head;
-            head=temp;
-        }
-        l2=prev;
+         l1=reverse(l1);
+         l2=reverse(l2);
         ListNode* ans=new ListNode(0);
-        head=ans;
+        ListNode* head=ans;
         int c=0;
-
-        
         while(l1!=NULL && l2!=NULL){
             int sum=l1->val+l2->val+c;
             ans->next=new ListNode(sum%10);
@@ -67,15 +59,7 @@ public:
         }
         if(c==1)ans->next=new ListNode(1);
         head=head->next;
-         temp=head;
-         prev=NULL; 
-        while(temp!=NULL){
-            temp=head->next;
-            head->next=prev;
-            prev=head;
-            head=temp;
-        }
-       head=prev;
+         head=reverse(head);
        return head;
     }
 };
