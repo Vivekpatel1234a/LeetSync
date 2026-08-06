@@ -211,11 +211,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0844-backspace-string-compare) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0844-backspace-string-compare) |
@@ -257,6 +259,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0725-split-linked-list-in-parts) |
@@ -265,6 +268,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0486-predict-the-winner) |
 ## Minimax
 |  |
