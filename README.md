@@ -22,6 +22,7 @@
 | [0877-stone-game](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0877-stone-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1019-next-greater-node-in-linked-list) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1288-remove-covered-intervals) |
 | [1314-matrix-block-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1314-matrix-block-sum) |
@@ -56,6 +57,7 @@
 | [0130-surrounded-regions](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1765-map-of-highest-peak](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1765-map-of-highest-peak) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2685-count-the-number-of-complete-components) |
@@ -86,6 +88,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1260-shift-2d-grid) |
 | [1314-matrix-block-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1314-matrix-block-sum) |
 | [1765-map-of-highest-peak](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1765-map-of-highest-peak) |
