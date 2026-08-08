@@ -6,6 +6,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0039-combination-sum) |
 | [0063-unique-paths-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0063-unique-paths-ii) |
+| [0130-surrounded-regions](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0213-house-robber-ii) |
@@ -52,6 +53,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0733-flood-fill) |
 | [1765-map-of-highest-peak](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1765-map-of-highest-peak) |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0063-unique-paths-ii) |
+| [0130-surrounded-regions](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0130-surrounded-regions) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0733-flood-fill) |
@@ -107,6 +110,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0130-surrounded-regions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -132,6 +136,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0733-flood-fill) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2685-count-the-number-of-complete-components) |
