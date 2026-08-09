@@ -56,6 +56,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0802-find-eventual-safe-states) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -67,6 +68,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2685-count-the-number-of-complete-components) |
@@ -116,6 +118,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0130-surrounded-regions) |
+| [0547-number-of-provinces](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -143,6 +146,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0130-surrounded-regions) |
+| [0547-number-of-provinces](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
