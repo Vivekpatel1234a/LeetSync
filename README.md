@@ -37,6 +37,7 @@
 | [1920-build-array-from-permutation](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2365-task-scheduler-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2365-task-scheduler-ii) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -50,6 +51,7 @@
 | [0844-backspace-string-compare](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1920-build-array-from-permutation) |
+| [2365-task-scheduler-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2365-task-scheduler-ii) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
@@ -210,6 +212,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1331-rank-transform-of-an-array) |
+| [2365-task-scheduler-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2365-task-scheduler-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Backtracking
