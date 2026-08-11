@@ -40,6 +40,7 @@
 | [2365-task-scheduler-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2365-task-scheduler-ii) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3620-network-recovery-pathways) |
@@ -170,6 +171,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3536-maximum-product-of-two-digits) |
@@ -216,6 +218,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1331-rank-transform-of-an-array) |
 | [2365-task-scheduler-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2365-task-scheduler-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Backtracking
