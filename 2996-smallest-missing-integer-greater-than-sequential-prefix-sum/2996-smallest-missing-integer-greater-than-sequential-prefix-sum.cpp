@@ -15,10 +15,8 @@ public:
         int temp=sum;
         while(true){
             if(mp.count(temp)){
-                cout<<"yes->"<<temp<<" ";
             }
             else {
-                cout<<"no->"<<temp<<"  ";
                 break;
             }
             temp++;
