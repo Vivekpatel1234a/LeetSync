@@ -65,6 +65,7 @@
 | [0733-flood-fill](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -79,6 +80,7 @@
 | [0547-number-of-provinces](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2685-count-the-number-of-complete-components) |
@@ -91,6 +93,7 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0767-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -117,6 +120,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
@@ -149,6 +153,7 @@
 | [0213-house-robber-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0877-stone-game) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3620-network-recovery-pathways](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3620-network-recovery-pathways) |
@@ -165,6 +170,7 @@
 | [0733-flood-fill](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2685-count-the-number-of-complete-components) |
