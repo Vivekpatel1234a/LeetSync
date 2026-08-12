@@ -19,7 +19,7 @@ public:
         if(i==m-1 && j==n-1){
             return maxi;
         }
-        for(auto ele:vec){
+        for(auto& ele:vec){
             int i1=ele.first;
             int j1=ele.second;
             if(i1+i<m && j1+j<n && i1+i>=0 && j1+j>=0 && !vis[i1+i][j1+j]){
