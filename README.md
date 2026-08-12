@@ -19,6 +19,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0877-stone-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0994-rotting-oranges) |
@@ -64,6 +65,7 @@
 | [0547-number-of-provinces](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0802-find-eventual-safe-states) |
@@ -93,6 +95,7 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -107,6 +110,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1260-shift-2d-grid) |
@@ -127,6 +131,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0069-sqrtx) |
+| [0778-swim-in-rising-water](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0778-swim-in-rising-water) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -137,6 +142,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2685-count-the-number-of-complete-components) |
@@ -169,6 +175,7 @@
 | [0547-number-of-provinces](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0802-find-eventual-safe-states) |
@@ -339,6 +346,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0486-predict-the-winner) |
+| [0778-swim-in-rising-water](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0778-swim-in-rising-water) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -363,6 +371,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0778-swim-in-rising-water) |
 ## Sliding Window
 |  |
 | ------- |
