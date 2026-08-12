@@ -2,7 +2,7 @@ class Solution {
 public:
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
         vector<vector<pair<int,int>>>adj(n);
-        for(auto it:flights){
+        for(auto& it:flights){
             int u=it[0];
             int v=it[1];
             int w=it[2];
@@ -21,7 +21,7 @@ public:
             q.pop();
             int node=it.first;
             int weight=it.second;
-            for(auto ngb:adj[node]){
+            for(auto& ngb:adj[node]){
                 int edgecost=ngb.second;
                 int ngbnode=ngb.first;
                 if(weight+edgecost<cost[ngbnode]){
