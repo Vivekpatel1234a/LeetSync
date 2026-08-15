@@ -1,7 +1,6 @@
 class Solution {
 public:
     int minTaps(int n, vector<int>& ranges) {
-       vector<int>garden(n);
        vector<int>area(n+1,0);
        for(int i=n; i>=0; i--){
         int right=min(n,i+ranges[i]);
@@ -21,7 +20,6 @@ public:
         }
        }
        if(nxtidx<n)return -1;
-
        return cnt-1;
     }
 };
