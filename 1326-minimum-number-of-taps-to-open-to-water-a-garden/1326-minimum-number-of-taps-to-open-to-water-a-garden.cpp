@@ -12,8 +12,6 @@ public:
        int cnt=0;
        int nxtidx=0;
        int maxi=0;
-       for(auto ele:area)cout<<ele<<" ";
-       cout<<endl;
        for(int i=0; i<=nxtidx; i++){
         maxi=max(maxi,area[i]);
         if(i==nxtidx){
