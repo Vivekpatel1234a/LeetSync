@@ -8,6 +8,7 @@
 | [0045-jump-game-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0179-largest-number) |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0130-surrounded-regions) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0542-01-matrix) |
@@ -203,6 +205,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0547-number-of-provinces) |
@@ -286,6 +289,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0079-word-search) |
 ## Enumeration
 |  |
 | ------- |
@@ -294,6 +298,7 @@
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0179-largest-number) |
 | [0767-reorganize-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0844-backspace-string-compare) |
