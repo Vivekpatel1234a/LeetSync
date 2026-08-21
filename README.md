@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0055-jump-game) |
@@ -313,6 +314,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0179-largest-number) |
 | [0767-reorganize-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0767-reorganize-string) |
@@ -460,4 +462,8 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
