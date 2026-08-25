@@ -12,6 +12,7 @@
 | [0064-minimum-path-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0198-house-robber) |
@@ -496,4 +497,8 @@
 | [0199-binary-tree-right-side-view](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
