@@ -344,6 +344,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0191-number-of-1-bits) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
@@ -501,4 +502,5 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
