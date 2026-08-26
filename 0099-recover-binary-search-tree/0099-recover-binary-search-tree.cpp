@@ -31,7 +31,6 @@ public:
     }
     void recoverTree(TreeNode* root) {
         solve(root);
-        cout<<prevmax->val<<" "<<nextmin->val;
         int temp=prevmax->val;
         prevmax->val=nextmin->val;
         nextmin->val=temp;
