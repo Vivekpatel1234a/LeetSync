@@ -286,6 +286,7 @@
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0173-binary-search-tree-iterator) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0304-range-sum-query-2d-immutable) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Prefix Sum
@@ -366,6 +367,7 @@
 ## Stack
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0496-next-greater-element-i) |
@@ -487,6 +489,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -495,6 +498,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -503,4 +507,12 @@
 | ------- |
 | [0136-single-number](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0191-number-of-1-bits) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
