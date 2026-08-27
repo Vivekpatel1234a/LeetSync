@@ -303,6 +303,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0560-subarray-sum-equals-k) |
@@ -362,6 +363,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0844-backspace-string-compare) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -421,6 +423,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0328-odd-even-linked-list) |
