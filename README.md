@@ -366,6 +366,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0844-backspace-string-compare) |
@@ -374,6 +375,7 @@
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0445-add-two-numbers-ii) |
@@ -430,6 +432,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0234-palindrome-linked-list) |
@@ -444,6 +447,7 @@
 | [0002-add-two-numbers](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0486-predict-the-winner) |
