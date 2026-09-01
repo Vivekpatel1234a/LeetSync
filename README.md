@@ -44,6 +44,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1631-path-with-minimum-effort) |
+| [1710-maximum-units-on-a-truck](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1710-maximum-units-on-a-truck) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1765-map-of-highest-peak](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1765-map-of-highest-peak) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -260,6 +261,7 @@
 | [1288-remove-covered-intervals](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1710-maximum-units-on-a-truck) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -405,6 +407,7 @@
 | [0767-reorganize-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1710-maximum-units-on-a-truck](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1710-maximum-units-on-a-truck) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
