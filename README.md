@@ -32,6 +32,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0994-rotting-oranges) |
+| [1001-grid-illumination](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1001-grid-illumination) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1019-next-greater-node-in-linked-list) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1094-car-pooling) |
@@ -318,6 +319,7 @@
 | [0767-reorganize-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0767-reorganize-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1001-grid-illumination](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1001-grid-illumination) |
 | [1331-rank-transform-of-an-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1331-rank-transform-of-an-array) |
 | [2365-task-scheduler-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2365-task-scheduler-ii) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
