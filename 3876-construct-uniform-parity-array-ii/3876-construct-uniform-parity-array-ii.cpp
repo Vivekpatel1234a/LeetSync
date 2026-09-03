@@ -1,11 +1,16 @@
 class Solution {
 public:
     bool uniformArray(vector<int>& nums1) {
-       int n=nums1.size();
+        int sm=*min_element(nums1.begin(),nums1.end());
+        if(sm%2!=0)return true;
+        for(int i=0; i<nums1.size(); i++){
+            if(nums1[i]%2!=0)return false;
+        }
+        return true;
+      /* int n=nums1.size();
        vector<int>nums2(n);
        vector<int>nextodd(n);
        vector<int>nexteven(n);
-       //int nxt=INT_MAX;
        int nxtodd=INT_MAX;
        int nxteven=INT_MAX;
        for(int i=n-1; i>=0; i--){
@@ -16,9 +21,7 @@ public:
         nexteven[i]=nxteven;
        if(nums1[i]%2==0)nxteven=min(nxteven,nums1[i]);
        }
-      // for(auto ele:nextodd)cout<<ele<<" ";
-      // for(auto ele:nexteven)cout<<ele<<" ";
-       //check for even
+
        int pre=INT_MAX;
        int flage=1;
        for(int i=0; i<n; i++){
@@ -58,6 +61,6 @@ public:
         }
         else pre=min(pre,nums1[i]);
        }
-       return flage||flago;
+       return flage||flago;*/
     }
 };
