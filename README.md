@@ -68,6 +68,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3903-smallest-stable-index-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
 | ------- |
@@ -310,6 +311,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1094-car-pooling](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1094-car-pooling) |
 | [1314-matrix-block-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1314-matrix-block-sum) |
+| [3903-smallest-stable-index-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
