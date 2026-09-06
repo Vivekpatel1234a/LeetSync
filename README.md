@@ -208,6 +208,7 @@
 | [0063-unique-paths-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0213-house-robber-ii) |
@@ -350,6 +351,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0179-largest-number) |
 | [0767-reorganize-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0844-backspace-string-compare) |
