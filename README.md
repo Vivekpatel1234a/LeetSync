@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0014-longest-common-prefix) |
 | [0037-sudoku-solver](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0063-unique-paths-ii) |
@@ -348,6 +349,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0079-word-search) |
 | [0980-unique-paths-iii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1219-path-with-maximum-gold) |
