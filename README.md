@@ -32,6 +32,7 @@
 | [0877-stone-game](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0980-unique-paths-iii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0994-rotting-oranges) |
 | [1001-grid-illumination](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1001-grid-illumination) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1019-next-greater-node-in-linked-list) |
@@ -159,6 +160,7 @@
 | [0733-flood-fill](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0778-swim-in-rising-water) |
 | [0931-minimum-falling-path-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0931-minimum-falling-path-sum) |
+| [0980-unique-paths-iii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1219-path-with-maximum-gold) |
@@ -347,6 +349,7 @@
 | [0037-sudoku-solver](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0079-word-search) |
+| [0980-unique-paths-iii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1219-path-with-maximum-gold) |
 ## Enumeration
 |  |
@@ -561,6 +564,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0191-number-of-1-bits) |
+| [0980-unique-paths-iii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0980-unique-paths-iii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -582,4 +586,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0037-sudoku-solver) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
