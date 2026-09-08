@@ -1,9 +1,9 @@
 class Solution {
 public:
-    set<vector<int>>finalans;
+    vector<vector<int>>result;
     void solve(int idx, vector<int>& candidates, int target,vector<int>& ans){
         if(target==0){
-            finalans.insert(ans);
+            result.push_back(ans);
             return;
         }
         if(idx>=candidates.size() || target<0)return;
@@ -14,15 +14,12 @@ public:
             idx++;
         }
         solve(idx+1,candidates,target,ans);
-
     }
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
         int n=candidates.size();
         vector<int>ans;
         sort(candidates.begin(),candidates.end());
         solve(0,candidates,target,ans);
-        vector<vector<int>>result;
-        for(auto it:finalans)result.push_back(it);
         return result;
     }
 };
