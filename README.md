@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0014-longest-common-prefix) |
+| [0037-sudoku-solver](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0055-jump-game) |
@@ -147,6 +148,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0079-word-search) |
@@ -320,6 +322,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0037-sudoku-solver) |
 | [0142-linked-list-cycle-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0496-next-greater-element-i) |
@@ -341,6 +344,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0079-word-search) |
 | [1219-path-with-maximum-gold](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1219-path-with-maximum-gold) |
@@ -570,4 +574,12 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0142-linked-list-cycle-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
