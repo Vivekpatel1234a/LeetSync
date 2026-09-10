@@ -21,6 +21,7 @@
 | [0198-house-robber](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0239-sliding-window-maximum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0486-predict-the-winner](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0486-predict-the-winner) |
@@ -138,6 +139,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0778-swim-in-rising-water) |
@@ -534,6 +536,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0239-sliding-window-maximum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -606,4 +609,16 @@
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0980-unique-paths-iii) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
