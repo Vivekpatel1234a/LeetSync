@@ -259,6 +259,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1631-path-with-minimum-effort) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -553,6 +554,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -563,6 +565,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Bit Manipulation
 |  |
