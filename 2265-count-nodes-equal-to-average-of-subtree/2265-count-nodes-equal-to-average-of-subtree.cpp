@@ -9,7 +9,26 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
 class Solution {
+public:
+    int ans=0;
+    pair<int,int>solve(TreeNode* root){
+        if(root==NULL)return {0,0};
+        auto lt=solve(root->left);
+        auto rt=solve(root->right);
+        int total=lt.first+rt.first+root->val;
+        int cnt=lt.second+rt.second+1;
+        if(total/cnt==root->val)ans++;
+        return {total,lt.second+rt.second+1};
+    }
+    int averageOfSubtree(TreeNode* root) {
+         solve(root);
+         return ans;
+    }
+};
+
+/*class Solution {
 public:
     unordered_map<TreeNode*,int>mp;
     int ans=0;
@@ -19,7 +38,6 @@ public:
         root->val=root->val+solve(root->left)+solve(root->right);
         return root->val;
     }
-
     int count(TreeNode* root){
         if(root==NULL)return 0;
         int cnt=1+count(root->left)+count(root->right);
@@ -33,4 +51,4 @@ public:
          count(root);
          return ans; 
     }
-};
+};*/
