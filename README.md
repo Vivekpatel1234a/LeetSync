@@ -8,6 +8,7 @@
 | [0037-sudoku-solver](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0063-unique-paths-ii) |
@@ -209,6 +210,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0062-unique-paths) |
@@ -396,6 +398,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0143-reorder-list) |
@@ -407,6 +410,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0234-palindrome-linked-list) |
@@ -422,6 +426,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1081-smallest-subsequence-of-distinct-characters) |
