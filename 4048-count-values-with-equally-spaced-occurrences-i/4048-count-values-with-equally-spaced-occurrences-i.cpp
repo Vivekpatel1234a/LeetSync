@@ -6,7 +6,7 @@ public:
             mp[nums[i]].push_back(i);
         }
         int cnt=0;
-        for(auto it:mp){
+        for(auto& it:mp){
             if(it.second.size()==3){
                 auto vec=it.second;
                 if(vec[1]-vec[0]==vec[2]-vec[1])cnt++;
