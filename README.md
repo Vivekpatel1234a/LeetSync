@@ -299,6 +299,7 @@
 | [0486-predict-the-winner](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -625,4 +626,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0239-sliding-window-maximum) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
