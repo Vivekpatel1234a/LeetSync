@@ -302,6 +302,7 @@
 | [0836-rectangle-overlap](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2769-find-the-maximum-achievable-number) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3345-smallest-divisible-digit-product-i) |
