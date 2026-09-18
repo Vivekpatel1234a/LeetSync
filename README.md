@@ -25,6 +25,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0486-predict-the-winner](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0486-predict-the-winner) |
+| [0495-teemo-attacking](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0542-01-matrix) |
@@ -81,6 +82,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0495-teemo-attacking) |
 | [0844-backspace-string-compare](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0844-backspace-string-compare) |
 | [1094-car-pooling](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1260-shift-2d-grid) |
