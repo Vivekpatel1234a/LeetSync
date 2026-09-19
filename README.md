@@ -16,6 +16,7 @@
 | [0079-word-search](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0198-house-robber) |
@@ -224,6 +225,7 @@
 | [0064-minimum-path-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0213-house-robber-ii) |
@@ -337,6 +339,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0037-sudoku-solver) |
+| [0139-word-break](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0160-intersection-of-two-linked-lists) |
 | [0409-longest-palindrome](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0409-longest-palindrome) |
@@ -379,6 +382,7 @@
 | [0014-longest-common-prefix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0409-longest-palindrome) |
 | [0767-reorganize-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0767-reorganize-string) |
@@ -467,6 +471,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Combinatorics
@@ -566,6 +571,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0139-word-break) |
 ## Tree
 |  |
 | ------- |
@@ -635,4 +641,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0836-rectangle-overlap) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
