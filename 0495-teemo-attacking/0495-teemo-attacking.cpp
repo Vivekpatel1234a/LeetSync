@@ -1,5 +1,5 @@
 class Solution {
-public:
+public: 
     int findPoisonedDuration(vector<int>& timeSeries, int duration) {
     int n=timeSeries.size();
     int cnt=duration;
