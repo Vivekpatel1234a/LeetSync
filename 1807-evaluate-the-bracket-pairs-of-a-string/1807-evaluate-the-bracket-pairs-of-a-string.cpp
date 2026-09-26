@@ -3,7 +3,7 @@ public:
     string evaluate(string s, vector<vector<string>>& knowledge) {
         string ans="";
         unordered_map<string,string>mp;
-        for(auto ele:knowledge){
+        for(auto &ele:knowledge){
             mp[ele[0]]=ele[1];
         }
         string temp="";
