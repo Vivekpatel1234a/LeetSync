@@ -387,6 +387,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0139-word-break) |
@@ -439,6 +440,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0173-binary-search-tree-iterator) |
@@ -666,4 +668,8 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0416-partition-equal-subset-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
