@@ -393,6 +393,7 @@
 | [0179-largest-number](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0409-longest-palindrome) |
 | [0767-reorganize-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0767-reorganize-string) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0844-backspace-string-compare](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -430,6 +431,7 @@
 | [0143-reorder-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0234-palindrome-linked-list) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0844-backspace-string-compare](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0844-backspace-string-compare) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2337-move-pieces-to-obtain-a-string) |
