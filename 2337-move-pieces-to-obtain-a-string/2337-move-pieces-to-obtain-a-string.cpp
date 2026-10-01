@@ -3,19 +3,15 @@ class Solution {
      bool canChange(string start, string target) {
         int i=0;
         int j=0;
-        int m=start.size();
-        int n=target.size();
-        while(i<m || j<n){
-            while(start[i]=='_' && i<m)i++;
+        int n=start.size();//just to check till the length of start string size
+        while(i<n || j<n){
+            while(start[i]=='_' && i<n)i++;
             while(target[j]=='_' && j<n)j++;
-            if(start[i]!=target[j])return false;
-            if(target[j]=='L' && i<j)return false;
-            if(target[j]=='R' && i>j)return false;
+            if(i==n && j==n)return true;
+            if(i==n || j==n)return false;
+            if(start[i]!=target[j] || (target[j]=='L' && i<j) || (target[j]=='R' && i>j))return false;
             i++;
             j++;
-        }
-        if(i==m || j==n){
-            return (i==m && j==n);
         }
         return true;
         }
