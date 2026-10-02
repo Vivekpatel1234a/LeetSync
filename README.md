@@ -27,6 +27,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0523-continuous-subarray-sum) |
@@ -238,6 +239,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0877-stone-game) |
@@ -380,6 +382,7 @@
 | [0039-combination-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1219-path-with-maximum-gold) |
 ## Enumeration
@@ -672,10 +675,12 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0494-target-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
