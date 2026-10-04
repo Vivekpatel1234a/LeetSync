@@ -241,6 +241,7 @@
 | [0486-predict-the-winner](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0931-minimum-falling-path-sum) |
@@ -403,6 +404,7 @@
 | [0139-word-break](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0767-reorganize-string) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0844-backspace-string-compare](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0844-backspace-string-compare) |
@@ -459,6 +461,7 @@
 | [0234-palindrome-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0856-score-of-parentheses) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1019-next-greater-node-in-linked-list) |
@@ -481,6 +484,7 @@
 | [0055-jump-game](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -688,6 +692,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0678-valid-parenthesis-string) |
 ## Meet in the Middle
 |  |
 | ------- |
