@@ -14,6 +14,7 @@
 | [0063-unique-paths-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0084-largest-rectangle-in-histogram) |
 | [0130-surrounded-regions](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0139-word-break) |
@@ -456,6 +457,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0234-palindrome-linked-list) |
@@ -474,6 +476,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -668,6 +671,7 @@
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0239-sliding-window-maximum) |
 ## Geometry
 |  |
