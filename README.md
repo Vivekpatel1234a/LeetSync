@@ -232,6 +232,7 @@
 | [0063-unique-paths-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0152-maximum-product-subarray) |
@@ -401,6 +402,7 @@
 | [0020-valid-parentheses](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0179-largest-number) |
