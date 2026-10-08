@@ -413,6 +413,7 @@
 | [0844-backspace-string-compare](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1143-longest-common-subsequence) |
 | [1544-make-the-string-great](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1544-make-the-string-great) |
@@ -471,6 +472,7 @@
 | [0856-score-of-parentheses](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1019-next-greater-node-in-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1544-make-the-string-great) |
@@ -704,6 +706,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1021-remove-outermost-parentheses) |
 ## Meet in the Middle
 |  |
 | ------- |
