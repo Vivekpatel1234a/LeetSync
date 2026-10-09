@@ -416,6 +416,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1143-longest-common-subsequence) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1544-make-the-string-great) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -475,6 +476,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -498,6 +500,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1710-maximum-units-on-a-truck](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1710-maximum-units-on-a-truck) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -707,6 +710,7 @@
 | [0856-score-of-parentheses](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Meet in the Middle
 |  |
 | ------- |
