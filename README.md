@@ -242,6 +242,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -407,6 +408,7 @@
 | [0139-word-break](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0409-longest-palindrome) |
+| [0516-longest-palindromic-subsequence](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0767-reorganize-string) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0777-swap-adjacent-in-lr-string) |
