@@ -251,6 +251,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0931-minimum-falling-path-sum) |
+| [1092-shortest-common-supersequence](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1143-longest-common-subsequence) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -424,6 +425,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1092-shortest-common-supersequence](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1143-longest-common-subsequence) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1544-make-the-string-great) |
@@ -733,6 +735,7 @@
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1092-shortest-common-supersequence](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1143-longest-common-subsequence) |
 ## Binary Indexed Tree
 |  |
