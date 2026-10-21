@@ -1,3 +1,20 @@
+//bottom up (1D DP)
+class Solution {
+public:
+    int rob(vector<int>& nums) {
+        int n=nums.size();
+        vector<int>dp(n+1,0);
+        dp[0]=0;
+        dp[1]=nums[0];
+        for(int i=2; i<=n; i++){
+            dp[i]=max(dp[i-2]+nums[i-1],dp[i-1]);
+        }
+        return dp[n];
+    }
+};
+
+
+
 /*//solve it from 0 to n bcz its n to 0
 class Solution {
 public:
@@ -20,7 +37,12 @@ public:
         return ans;
     }
 };*/
-class Solution {
+
+
+
+
+//rec+memo
+/*class Solution {
 public:
     int dp[101];
 
@@ -37,4 +59,4 @@ public:
         return ans;
 
     }
-};
+};*/
