@@ -1,9 +1,13 @@
+
+
+
 //bottom up (1D DP)
 class Solution {
 public:
     int rob(vector<int>& nums) {
         int n=nums.size();
         vector<int>dp(n+1,0);
+        //dp[i] => maximum stolen money till ith house (i is the number)
         dp[0]=0;
         dp[1]=nums[0];
         for(int i=2; i<=n; i++){
@@ -12,6 +16,34 @@ public:
         return dp[n];
     }
 };
+
+
+
+
+
+//rec+memo
+/*class Solution {
+public:
+    int dp[101];
+
+   int solve(int i, vector<int>&nums){
+    if(i>=nums.size())return 0;
+    if(dp[i]!=-1)return dp[i];
+    //if(i==nums.size()-1)return nums[i];
+    return dp[i]=max(solve(i+2,nums)+nums[i],solve(i+1,nums));
+   }
+
+    int rob(vector<int>& nums){
+        memset(dp,-1,sizeof(dp));
+        int ans=solve(0,nums);
+        return ans;
+
+    }
+};*/
+
+
+
+
 
 
 
@@ -39,24 +71,3 @@ public:
 };*/
 
 
-
-
-//rec+memo
-/*class Solution {
-public:
-    int dp[101];
-
-   int solve(int i, vector<int>&nums){
-    if(i>=nums.size())return 0;
-    if(dp[i]!=-1)return dp[i];
-    //if(i==nums.size()-1)return nums[i];
-    return dp[i]=max(solve(i+2,nums)+nums[i],solve(i+1,nums));
-   }
-
-    int rob(vector<int>& nums){
-        memset(dp,-1,sizeof(dp));
-        int ans=solve(0,nums);
-        return ans;
-
-    }
-};*/
