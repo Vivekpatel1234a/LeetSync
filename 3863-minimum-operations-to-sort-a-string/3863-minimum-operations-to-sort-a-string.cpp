@@ -2,9 +2,14 @@ class Solution {
 public:
     int minOperations(string s) {
        int n=s.size();
-       string x=s;
-       sort(x.begin(),x.end());
-       if(x==s)return 0;
+       bool flag=false;
+       for(int i=1; i<n; i++){
+        if(s[i]<s[i-1]){
+            flag=true;
+            break;
+        }
+       }
+       if(flag==false)return 0;
        else if(s.size()==2)return -1;
        int minidx=0;
        int maxidx=0;
