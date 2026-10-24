@@ -22,7 +22,6 @@ public:
             }
         }
         vector<int>result;
-        cout<<maxidx;
         if(maxidx==-1)return {nums[0]};
         while(maxidx!=-1){
            // cout<<maxidx<<" ";
