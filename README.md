@@ -90,6 +90,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3620-network-recovery-pathways) |
+| [3665-twisted-mirror-path-count](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3875-construct-uniform-parity-array-i) |
@@ -205,6 +206,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3665-twisted-mirror-path-count) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Shortest Path
 |  |
@@ -282,6 +284,7 @@
 | [1755-closest-subsequence-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1755-closest-subsequence-sum) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3620-network-recovery-pathways) |
+| [3665-twisted-mirror-path-count](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3665-twisted-mirror-path-count) |
 ## Topological Sort
 |  |
 | ------- |
