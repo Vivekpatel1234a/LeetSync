@@ -73,6 +73,7 @@
 | [1920-build-array-from-permutation](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -109,6 +110,7 @@
 | [1094-car-pooling](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1920-build-array-from-permutation) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2073-time-needed-to-buy-tickets) |
 | [2365-task-scheduler-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2365-task-scheduler-ii) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -732,6 +734,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0239-sliding-window-maximum) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
 | ------- |
