@@ -65,6 +65,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1631-path-with-minimum-effort) |
 | [1710-maximum-units-on-a-truck](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1710-maximum-units-on-a-truck) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -292,6 +293,7 @@
 | [1143-longest-common-subsequence](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1143-longest-common-subsequence) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1755-closest-subsequence-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1755-closest-subsequence-sum) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -350,6 +352,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1710-maximum-units-on-a-truck](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1710-maximum-units-on-a-truck) |
 | [1755-closest-subsequence-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1755-closest-subsequence-sum) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
