@@ -28,7 +28,14 @@ public:
     int climbStairs(int n, vector<int>& costs) {
         memset(dp, -1, sizeof(dp));
       //  int n=costs.size();
-        return solve(n, costs);
+        vector<int>dp(n+1,INT_MAX);
+        dp[0]=0;
+        for(int i=1; i<=n; i++){
+            if(i-1>=0)dp[i]=min(dp[i],costs[i-1]+1+dp[i-1]);
+            if(i-2>=0)dp[i]=min(dp[i],costs[i-1]+4+dp[i-2]);
+            if(i-3>=0)dp[i]=min(dp[i],costs[i-1]+9+dp[i-3]);
+        }
+        return dp[n];
     }
 };
 /*
