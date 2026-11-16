@@ -116,6 +116,7 @@
 | [1260-shift-2d-grid](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1920-build-array-from-permutation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2073-time-needed-to-buy-tickets) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2365-task-scheduler-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2365-task-scheduler-ii) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -490,6 +491,7 @@
 | [1544-make-the-string-great](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1544-make-the-string-great) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2409-count-days-spent-together](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
