@@ -297,6 +297,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0931-minimum-falling-path-sum) |
 | [1092-shortest-common-supersequence](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -490,6 +491,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1544-make-the-string-great) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
