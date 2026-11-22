@@ -496,6 +496,7 @@
 | [1544-make-the-string-great](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1544-make-the-string-great) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2409-count-days-spent-together](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2409-count-days-spent-together) |
