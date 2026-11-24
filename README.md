@@ -62,6 +62,7 @@
 | [1314-matrix-block-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1314-matrix-block-sum) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1331-rank-transform-of-an-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1352-product-of-the-last-k-numbers) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -387,6 +388,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1352-product-of-the-last-k-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2409-count-days-spent-together) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2769-find-the-maximum-achievable-number) |
@@ -408,6 +410,7 @@
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0173-binary-search-tree-iterator) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0304-range-sum-query-2d-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1352-product-of-the-last-k-numbers) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Prefix Sum
 |  |
@@ -419,6 +422,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1094-car-pooling](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1094-car-pooling) |
 | [1314-matrix-block-sum](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1314-matrix-block-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1352-product-of-the-last-k-numbers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/3904-smallest-stable-index-ii) |
@@ -830,4 +834,8 @@
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0646-maximum-length-of-pair-chain) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Vivekpatel1234a/LeetSync/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
