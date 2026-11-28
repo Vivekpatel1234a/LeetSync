@@ -136,6 +136,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0547-number-of-provinces) |
+| [0617-merge-two-binary-trees](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0778-swim-in-rising-water) |
@@ -329,6 +330,7 @@
 | [0210-course-schedule-ii](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0547-number-of-provinces) |
+| [0617-merge-two-binary-trees](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0778-swim-in-rising-water) |
@@ -722,6 +724,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0199-binary-tree-right-side-view) |
+| [0617-merge-two-binary-trees](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0617-merge-two-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0993-cousins-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -734,6 +737,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0199-binary-tree-right-side-view) |
+| [0617-merge-two-binary-trees](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0617-merge-two-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Vivekpatel1234a/LeetSync/tree/master/0993-cousins-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vivekpatel1234a/LeetSync/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
